@@ -16,13 +16,13 @@ else if (number1 > number & number1 > number2)
 {
     Console.Write("max = " + number1);
 }
-else if
+else if (number2 > number & number2 > number1)
 {
     Console.Write("max = " + number2);
 }
 else
 {
-    Console.Write("Some numbers are equal")
+    Console.Write("Some numbers are equal");
 }
 
 
